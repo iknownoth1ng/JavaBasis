@@ -1,4 +1,4 @@
-package com.owl.base;
+package com.owl.jvm;
 
 /**
  * JMM之关键字volatile（可见性和有序性）

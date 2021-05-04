@@ -1,4 +1,4 @@
-package com.owl.base;
+package com.owl.jvm;
 
 /**
  * volatile不支持原子性
